@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 				"vgui/replay/thumbnails/pentagram"
+	
+	"$vertexcolor"               1
+	"$vertexalpha"               1
+	"$translucent" 				"1"
+	"$angle" 					"0.0"
+	"$allenscott_scale" 		"-0.78"
+    "$translate" 				"[0.0 0.0]"
+    "$allenscott_center" 		"[0.5 0.5]"
+
+	"Proxies" { "LinearRamp" { "rate" -65 "initialValue" 0.0 "resultVar" "$angle" } "TextureTransform" { "translateVar" "$translate" "rotateVar" "$angle" "scaleVar" "$allenscott_scale" "centerVar" "$allenscott_center" "resultVar" "$basetexturetransform" } }
+}

@@ -1,14 +1,22 @@
 "UnlitGeneric"
 {
-	"$baseTexture" 				"vgui/replay/thumbnails/bunny"
-	
-	"$vertexcolor"               1
-	"$vertexalpha"               1
-	"$translucent" 				"1"
-	"$angle" 					"0.0"
-	"$allenscott_scale" 		"-0.78"
-    "$translate" 				"[0.0 0.0]"
-    "$allenscott_center" 		"[0.5 0.5]"
-
-	"Proxies" { "LinearRamp" { "rate" -65 "initialValue" 0.0 "resultVar" "$angle" } "TextureTransform" { "translateVar" "$translate" "rotateVar" "$angle" "scaleVar" "$allenscott_scale" "centerVar" "$allenscott_center" "resultVar" "$basetexturetransform" } }
+	"$basetexture" "vgui/replay/thumbnails/bunny"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"$speed" 0
+	"$alpha" "1"
+	Proxies {
+		PlayerSpeed {
+			scale 1
+			resultVar $speed
+		}
+		Clamp {
+			min 0
+			max 399
+			srcVar1 $speed
+			resultVar $frame
+		}
+	}
 }
