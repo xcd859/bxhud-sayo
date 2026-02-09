@@ -408,9 +408,9 @@
 	"HudCrosshair"
 	{
 		"fieldName" 								"HudCrosshair"
-		"visible" 									"0"
-		"xpos"										"9999"
-		"enabled" 									"0"
+		"visible" 									"1"
+		"xpos"										"0"
+		"enabled" 									"1"
 		"wide"								 		"640"
 		"tall"	 									"f0"
 	}
