@@ -23,9 +23,10 @@
 		"fgcolor_override"	"255 255 255 255"
 		"MeterBG"		"255 255 255 30"
 		"MeterBG_override"	"255 255 255 30"
-		"bgcolor"		"255 255 255 30"
-		"bgcolor_override"	"255 255 255 30"
+		"bgcolor"		"0 0 0 255 "
+		"bgcolor_override"	"0 0 0 255"
 	}
+
 	"ChargeBG"
 	{
 		"ControlName"			"CExImageButton"
@@ -37,8 +38,9 @@
 		"tall"				"14"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"defaultbgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
-	}					
+	}
+	
 }
