@@ -1,6 +1,6 @@
 #base "base/hudplayerclass.res"
 
-"Resource/UI/HudPlayerClass.res"
+"resource/ui/hudplayerclass.res"
 {
 
 	"PlayerStatusSpyImage"

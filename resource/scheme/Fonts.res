@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"21"
 				"antialias"	"1"
 				"outline"	"1"
@@ -16,7 +16,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"17"
 				"antialias"	"1"
 				"outline"	"1"
@@ -38,7 +38,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"10"
 				"antialias"	"1"
 			}
@@ -47,7 +47,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Roboto Condensed Regular"
+				"name"		"catamaran_semibold"
 				"tall"		"10"
 				"antialias"	"1"
 			}
@@ -56,7 +56,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"11"
 				"antialias"	"1"
 			}
@@ -65,7 +65,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"12"
 				"antialias"	"1"
 			}
@@ -74,7 +74,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Roboto Condensed Regular"
+				"name"		"catamaran_semibold"
 				"tall"		"12"
 				"antialias"	"1"
 			}
@@ -83,7 +83,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"14"
 				"antialias"	"1"
 			}
@@ -92,7 +92,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Roboto Condensed Regular"
+				"name"		"catamaran_semibold"
 				"tall"		"14"
 				"antialias"	"1"
 			}
@@ -101,7 +101,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"16"
 				"antialias"	"1"
 			}
@@ -110,7 +110,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Roboto Condensed Regular"
+				"name"		"catamaran_semibold"
 				"tall"		"16"
 				"antialias"	"1"
 			}
@@ -119,7 +119,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"18"
 				"antialias"	"1"
 			}
@@ -128,7 +128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"18"
 				"antialias"	"1"
 				"outline"	"1"
@@ -138,7 +138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"20"
 				"antialias"	"1"
 			}
@@ -147,7 +147,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"20"
 				"dropshadow" "1"
 				"antialias"	"1"
@@ -157,7 +157,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"21"
 				"antialias"	"1"
 			}
@@ -166,7 +166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"24"
 				"antialias"	"1"
 			}
@@ -175,7 +175,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"24"
 				"antialias"	"1"
 				"outline"	"1"
@@ -185,7 +185,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"26"
 				"antialias"	"1"
 			}
@@ -194,7 +194,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"28"
 				"antialias"	"1"
 			}
@@ -203,7 +203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"30"
 				"antialias"	"1"
 			}
@@ -212,7 +212,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"32"
 				"antialias"	"1"
 			}
@@ -221,7 +221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"34"
 				"antialias"	"1"
 			}
@@ -230,7 +230,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"36"
 				"antialias"	"1"
 			}
@@ -239,7 +239,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"40"
 				"antialias"	"1"
 			}
@@ -248,7 +248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Roboto Condensed Regular"
+				"name"		"catamaran_semibold"
 				"tall"		"40"
 				"antialias"	"1"
 			}
@@ -257,7 +257,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Catamaran SemiBold"
+				"name"		"catamaran_semibold"
 				"tall"		"48"
 				"antialias"	"1"
 			}
@@ -267,7 +267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -276,14 +276,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"underline" 								"1"
 				"range"										"0x0000 0x017F"
 			}
 			"2"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"800"
@@ -293,7 +293,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -312,7 +312,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"20"
 				"antialias"									"1"
 				"range"										"0x0000 0x017F"
@@ -322,7 +322,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -331,7 +331,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -340,7 +340,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"46"
 				"antialias" 								"1"
 			}
@@ -349,7 +349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"35"
 				"antialias" 								"1"
 			}
@@ -358,7 +358,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"35"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -368,7 +368,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -377,7 +377,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -386,7 +386,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -395,7 +395,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -404,7 +404,7 @@ Scheme
         {
             "1"
             {
-                "name"        "Catamaran SemiBold"
+                "name"        "catamaran_semibold"
                 "tall"        "24"
                 "weight"    "500"
                 "yres"        "1 1199"
@@ -413,7 +413,7 @@ Scheme
             }
             "2" // Misyl: Proportional
             {
-                "name"        "Catamaran SemiBold"
+                "name"        "catamaran_semibold"
                 "tall"        "10"
                 "weight"    "500"
                 "additive"    "0"
@@ -424,7 +424,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -433,7 +433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -442,7 +442,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -451,7 +451,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -460,7 +460,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -469,7 +469,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -478,7 +478,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -488,7 +488,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -497,7 +497,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias"								 	"1"
 				"dropshadow"								"1"
@@ -507,7 +507,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -516,7 +516,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -526,7 +526,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -535,7 +535,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"4"
 				"antialias" 								"1"
 			}
@@ -544,7 +544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -553,7 +553,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -562,7 +562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -571,7 +571,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -580,7 +580,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"6"
 				"antialias" 								"1"
 			}
@@ -589,7 +589,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -598,7 +598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -607,7 +607,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -616,7 +616,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -625,7 +625,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"weight"									"500"
 				"antialias" 								"1"
@@ -635,7 +635,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -645,7 +645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"weight"									"500"
 				"antialias" 								"1"
@@ -655,7 +655,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"weight"									"500"
 				"antialias" 								"1"
@@ -665,7 +665,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"15"
 				"antialias" 								"1"
 				"additive"									"1"
@@ -676,7 +676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"outline"									"1"
 				"range"										"0x0000 0x017F"
@@ -705,7 +705,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"90"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -722,7 +722,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"28"
 				"additive" 									"1"
 				"antialias"									"1"
@@ -732,7 +732,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 			}
@@ -741,7 +741,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"italic"									"1"
 				"range"										"0x0000 0x017F"
@@ -751,7 +751,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 			}
@@ -760,7 +760,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 			}
@@ -769,7 +769,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"range"										"0x0000 0x017F"
 			}
@@ -798,7 +798,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -808,7 +808,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -817,7 +817,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -826,7 +826,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"13"
 				"weight"									"800"
 				"antialias" 								"1"
@@ -836,7 +836,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"28"
 				"antialias"									"1"
 				"weight"									"500"
@@ -846,7 +846,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"40"
 				"antialias"									"1"
 			}
@@ -855,7 +855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -864,7 +864,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -883,7 +883,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"weight"									"400"
 				"antialias" 								"1"
@@ -893,7 +893,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -902,7 +902,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -912,7 +912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"20"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -922,7 +922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"20"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -932,7 +932,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -942,7 +942,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"20"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -952,7 +952,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"34"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -962,7 +962,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -971,7 +971,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"50"
 				"range" 									"0x0000 0x00FF"
 				"antialias" 								"1"
@@ -981,7 +981,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"36"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -991,7 +991,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1000,7 +1000,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"20"
 				"antialias" 								"1"
 			}
@@ -1009,7 +1009,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1018,7 +1018,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1027,7 +1027,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1046,7 +1046,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1055,7 +1055,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"dropshadow"								"1"
 				"antialias" 								"1"
@@ -1065,7 +1065,7 @@ Scheme
 		{
 			"4"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"dropshadow"								"1"
 				"antialias" 								"1"
@@ -1075,7 +1075,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"range" 									"0x0000 0x00FF"
 				"antialias"									"1"
@@ -1085,7 +1085,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"range" 									"0x0000 0x00FF"
 				"antialias"									"1"
@@ -1095,7 +1095,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1105,7 +1105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1115,7 +1115,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1125,7 +1125,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"weight"									"400"
 				"antialias" 								"1"
@@ -1136,7 +1136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"weight"									"800"
 				"antialias" 								"1"
@@ -1146,7 +1146,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -1155,7 +1155,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -1164,7 +1164,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"28"
 				"antialias" 								"1"
 			}
@@ -1173,7 +1173,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"22"
 				"antialias" 								"1"
 			}
@@ -1182,7 +1182,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1191,7 +1191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"22"
 				"antialias" 								"1"
 			}
@@ -1200,7 +1200,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1209,7 +1209,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"22"
 				"weight"									"900"
 				"antialias" 								"1"
@@ -1219,7 +1219,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"weight"									"900"
 				"antialias" 								"1"
@@ -1229,7 +1229,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"15"
 				"weight"									"900"
 				"antialias" 								"1"
@@ -1239,7 +1239,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -1248,7 +1248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1257,7 +1257,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1266,7 +1266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1275,7 +1275,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"weight"									"600"
 				"antialias" 								"1"
@@ -1285,7 +1285,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"weight"									"500"
 				"antialias" 								"1"
@@ -1315,7 +1315,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1324,7 +1324,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -1333,7 +1333,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -1342,7 +1342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias"								 	"1"
 			}
@@ -1351,7 +1351,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1360,7 +1360,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1369,7 +1369,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1378,7 +1378,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1387,7 +1387,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1397,7 +1397,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -1406,7 +1406,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"blur"										"3"
 				"additive"									"1"
@@ -1417,7 +1417,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -1427,7 +1427,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -1437,7 +1437,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1446,7 +1446,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1457,7 +1457,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1466,7 +1466,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1475,7 +1475,7 @@ Scheme
 		{
 			"13"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1484,7 +1484,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"antialias"								 	"1"
 			}
@@ -1493,7 +1493,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -1502,7 +1502,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1511,7 +1511,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1520,7 +1520,7 @@ Scheme
 		{
 			"3"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1529,7 +1529,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"13"
 				"antialias" 								"1"
 			}
@@ -1538,7 +1538,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -1547,7 +1547,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1556,7 +1556,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1565,7 +1565,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1574,7 +1574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"8"
 				"weight"									"400"
 				"antialias" 								"1"
@@ -1584,7 +1584,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"antialias" 								"1"
 				"italic"									"1"
@@ -1594,7 +1594,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1604,7 +1604,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1613,7 +1613,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1623,7 +1623,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1632,7 +1632,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias"								 	"1"
 			}
@@ -1641,7 +1641,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1650,7 +1650,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -1659,7 +1659,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1668,7 +1668,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1677,7 +1677,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -1686,7 +1686,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"15"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -1696,7 +1696,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -1705,7 +1705,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1714,7 +1714,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"11"
 				"blur"										"3"
 				"additive"									"1"
@@ -1725,7 +1725,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -1735,7 +1735,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1746,7 +1746,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1755,7 +1755,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1764,7 +1764,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1773,7 +1773,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Catamaran SemiBold"
+				"name"										"catamaran_semibold"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -1782,20 +1782,10 @@ Scheme
 
 	CustomFontFiles
 	{
-		"1" 
-		{
-			"font" "resource/scheme/fonts/RobotoCondensed-Bold.ttf"
-			"name" "Roboto Condensed Bold"
-		}
-		"2" 
-		{
-			"font" "resource/scheme/fonts/RobotoCondensed-Regular.ttf"
-			"name" "Roboto Condensed Regular"
-		}
 		"3"
 		{
-			"font"		"resource/scheme/fonts/Catamaran-SemiBold.ttf"
-			"name"		"Catamaran SemiBold"
+			"font"		"resource/scheme/fonts/catamaran-semibold.ttf"
+			"name"		"catamaran_semibold"
 		}
 	}
 }

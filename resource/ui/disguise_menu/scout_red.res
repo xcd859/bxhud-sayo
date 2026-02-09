@@ -1,4 +1,4 @@
-"Resource/UI/Disguise_Menu/Scout_Red.res"
+"resource/ui/disguise_menu/scout_red.res"
 {
 	"TitleBG"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/Sentry_Active.res"
+"resource/ui/build_menu/pipboy/sentry_active.res"
 {
 	"Background"
 	{

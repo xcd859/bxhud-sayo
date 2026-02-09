@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/Tele_Entrance_Cant_Afford.res"
+"resource/ui/build_menu/pipboy/tele_entrance_cant_afford.res"
 {
 	"Background"
 	{

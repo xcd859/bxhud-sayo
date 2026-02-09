@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/Base_Unavailable_Teleport_Target.res"
+"resource/ui/build_menu/pipboy/base_unavailable_teleport_target.res"
 {
 	"Background"
 	{

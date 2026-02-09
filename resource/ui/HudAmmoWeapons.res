@@ -1,4 +1,4 @@
-"Resource/UI/HudAmmoWeapons.res"
+"resource/ui/hudammoweapons.res"
 {
 	"HudWeaponAmmoBG"
 	{
@@ -76,7 +76,7 @@
 		"xpos"			"c-2"
 		"ypos"			"c104"
 		"zpos"			"7"
-		"wide"			"25"
+		"wide"			"30"
 		"tall"			"20"
 		"visible"		"0"
 		"enabled"		"1"
@@ -92,7 +92,7 @@
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"7"
-		"wide"			"25"
+		"wide"			"30"
 		"tall"			"20"
 		"visible"		"0"
 		"enabled"		"1"

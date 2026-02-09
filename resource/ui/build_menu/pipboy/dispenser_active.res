@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/Dispenser_Active.res"
+"resource/ui/build_menu/pipboy/dispenser_active.res"
 {
 	"Background"
 	{

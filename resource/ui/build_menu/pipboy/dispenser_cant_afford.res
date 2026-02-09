@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/Dispenser_Cant_Afford.res"
+"resource/ui/build_menu/pipboy/dispenser_cant_afford.res"
 {
 	"Background"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/Tele_Exit_Cant_Afford.res"
+"resource/ui/build_menu/tele_exit_cant_afford.res"
 {
 	"Background"
 	{

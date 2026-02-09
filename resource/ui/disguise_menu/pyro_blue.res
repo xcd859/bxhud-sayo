@@ -1,4 +1,4 @@
-"Resource/UI/Disguise_Menu/Pyro_Blue.res"
+"resource/ui/disguise_menu/pyro_blue.res"
 {
 	"ItemNameLabel"
 	{

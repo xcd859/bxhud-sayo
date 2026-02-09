@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/HudMenuEurekaEffect.res"
+"resource/ui/build_menu/pipboy/hudmenueurekaeffect.res"
 {
 	"TitleLabel"
 	{

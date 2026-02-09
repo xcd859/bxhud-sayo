@@ -1,19 +1,5 @@
-"Resource/HudLayout.res"
+"resource/hudlayout.res"
 {
-	"speedometer"
-	{
-		"controlName"								"ImagePanel"
-		"fieldName" 								"speedometer"
-		"visible"									"1"
-		"enabled"									"1"
-		"image"										"replay/thumbnails/numbers"
-		"scaleImage"								"1"
-		"zpos"										"-100"
-		"xpos"										"9999"
-		"ypos"										"c60"
-		"wide"										"50"
-		"tall"										"12"
-	}
 
 	"HudPlayerStatus"
 	{

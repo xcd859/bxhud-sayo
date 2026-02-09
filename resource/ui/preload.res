@@ -1,4 +1,4 @@
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	// Adding a parent makes the menu cleaner in the tree
 	"PRELOADLIST"

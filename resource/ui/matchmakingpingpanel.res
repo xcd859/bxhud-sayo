@@ -1,6 +1,6 @@
-#base "base/MatchMakingPingPanel.res"
+#base "base/matchmakingpingpanel.res"
 
-"Resource/UI/MatchMakingPingPanel.res"
+"resource/ui/matchmakingpingpanel.res"
 {
 	"IgnorePartyInvites"
 	{

@@ -1,0 +1,21 @@
+// load the base configuration
+//exec default.cfg
+
+// Setup custom controller
+exec joystick.cfg
+
+// run a user script file if present
+exec autoexec.cfg
+
+//
+// stuff command line statements
+//
+stuffcmds
+
+// display the startup level. Remove this if you're using background images instead of maps
+startupmenu
+
+//turn off playerclass so the spy disguise works, also notify user of this
+cl_hud_playerclass_use_playermodel 0
+echo "your playerclass has been turned off so spy disguises work"
+echo "to revert this in the future type 'cl_hud_playerclass_use_playermodel 1' in console. thanks"

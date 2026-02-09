@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/HudMenuEngyBuild.res"
+"resource/ui/build_menu/pipboy/hudmenuengybuild.res"
 {
 	"active_item_1"
 	{

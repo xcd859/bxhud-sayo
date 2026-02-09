@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/HudMenuEngyDestroy.res"
+"resource/ui/build_menu/pipboy/hudmenuengydestroy.res"
 {
 	"active_item_1"
 	{

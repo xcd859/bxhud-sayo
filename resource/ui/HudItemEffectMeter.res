@@ -1,4 +1,10 @@
-"Resource/UI/HudItemEffectMeter.res"
+//techno note
+//high meter: c140
+//middle meter: c147
+//bottom meter: c154
+//change as is since im on 4:3 lmao
+
+"resource/ui/huditemeffectmeter.res"
 {
 	HudItemEffectMeter
 	{

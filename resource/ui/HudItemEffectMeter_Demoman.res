@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Demoman.res"
+"resource/ui/huditemeffectmeter_demoman.res"
 {
 	HudItemEffectMeter
 	{
@@ -58,8 +58,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"	"ItemEffectMeterCount"
-		"xpos"		"c55"
-		"ypos"		"c115"
+		"xpos"		"cs-0.5" //c55
+		"ypos"		"c150"
 		"zpos"		"2"
 		"wide"		"20"
 		"tall"		"20"	
@@ -73,6 +73,29 @@
 		"brighttext"	"0"
 		"font"		"roboto18"
 		"fgcolor"	"255 150 0 255"
+	}
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"	"ItemEffectMeterCountShadow"
+		"xpos"		"-1"
+		"ypos"		"-1"
+		"zpos"		"2"
+		"wide"		"20"
+		"tall"		"20"	
+		"pinCorner"	"2"
+		"visible"	"1"
+		"enabled"	"1"
+		"tabPosition"	"0"
+		"labelText"	"%progresscount%"
+		"textAlignment"	"center"
+		"dulltext"	"0"
+		"brighttext"	"0"
+		"font"		"roboto18"
+		"fgcolor"	"Black"
+		"pin_to_sibling"			"ItemEffectMeterCount"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 	}
 	"ItemEffectMeterDemoBG"
 	{

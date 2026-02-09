@@ -1,6 +1,6 @@
-#base "HudItemEffectMeter.res"
+#base "huditemeffectmeter.res"
 
-"Resource/UI/HudItemEffectMeter_Pyro.res"
+"resource/ui/huditemeffectmeter_pyro.res"
 {
 	HudItemEffectMeter
 	{
@@ -8,7 +8,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"0"	[$WIN32]
-		"x_offset"		"60"
+		"x_offset"		"0"
 		"ypos"			"0"	[$WIN32]
 		"wide"			"f0"
 		"tall"			"480"

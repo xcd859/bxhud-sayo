@@ -1,4 +1,4 @@
-"Resource/UI/Destroy_Menu/PipBoy/Tele_Entrance_Active.res"
+"resource/ui/destroy_menu/pipboy/tele_entrance_active.res"
 {
 	"Background"
 	{

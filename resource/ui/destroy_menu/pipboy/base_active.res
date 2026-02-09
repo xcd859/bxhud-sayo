@@ -1,4 +1,4 @@
-"Resource/UI/Destroy_Menu/PipBoy/Base_Active.res"
+"resource/ui/destroy_menu/pipboy/base_active.res"
 {
 	"Background"
 	{

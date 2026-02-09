@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/HudMenuEurekaEffect.res"
+"resource/ui/build_menu/hudmenueurekaeffect.res"
 {
 	"TitleLabel"
 	{
