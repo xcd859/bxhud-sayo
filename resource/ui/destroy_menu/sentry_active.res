@@ -1,4 +1,4 @@
-"Resource/UI/Destroy_Menu/Sentry_Active.res"
+"resource/ui/destroy_menu/sentry_active.res"
 {
 	"Background"
 	{

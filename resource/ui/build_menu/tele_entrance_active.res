@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/Tele_Etrance_Active.res"
+"resource/ui/build_menu/tele_etrance_active.res"
 {
 	"Background"
 	{

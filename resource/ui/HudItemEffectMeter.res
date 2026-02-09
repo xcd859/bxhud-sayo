@@ -4,7 +4,7 @@
 //bottom meter: c154
 //change as is since im on 4:3 lmao
 
-"Resource/UI/HudItemEffectMeter.res"
+"resource/ui/huditemeffectmeter.res"
 {
 	HudItemEffectMeter
 	{

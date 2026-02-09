@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/Tele_Etrance_Active.res"
+"resource/ui/build_menu/pipboy/tele_etrance_active.res"
 {
 	"Background"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/Disguise_Menu/Soldier_Red.res"
+"resource/ui/disguise_menu/soldier_red.res"
 {
 	"ItemNameLabel"
 	{

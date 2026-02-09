@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/Tele_Entrance_Cant_Afford.res"
+"resource/ui/build_menu/tele_entrance_cant_afford.res"
 {
 	"Background"
 	{

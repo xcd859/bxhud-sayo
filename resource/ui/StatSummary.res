@@ -1,4 +1,4 @@
-"Resource/UI/StatSummary.res"
+"resource/ui/statsummary.res"
 {
 	"TFStatsSummary"
 	{

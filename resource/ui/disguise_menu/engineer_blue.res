@@ -1,4 +1,4 @@
-"Resource/UI/Disguise_Menu/Engineer_Blue.res"
+"resource/ui/disguise_menu/engineer_blue.res"
 {
 	"ItemNameLabel"
 	{

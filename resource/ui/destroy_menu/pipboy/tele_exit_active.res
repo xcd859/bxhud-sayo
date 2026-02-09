@@ -1,4 +1,4 @@
-"Resource/UI/Destroy_Menu/PipBoy/Tele_Exit_Active.res"
+"resource/ui/destroy_menu/pipboy/tele_exit_active.res"
 {
 	"Background"
 	{

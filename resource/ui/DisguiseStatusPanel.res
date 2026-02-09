@@ -1,4 +1,4 @@
-"Resource/UI/ItemModelPanel.res"
+"resource/ui/itemmodelpanel.res"
 {
 	"itemmodelpanel"
 	{	"ControlName"	"CEmbeddedItemModelPanel"	"fieldName"	"itemmodelpanel"	"xpos"	"9999"	}

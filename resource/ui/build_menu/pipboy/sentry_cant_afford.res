@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/PipBoy/Sentry_Cant_Afford.res"
+"resource/ui/build_menu/pipboy/sentry_cant_afford.res"
 {
 	"Background"
 	{

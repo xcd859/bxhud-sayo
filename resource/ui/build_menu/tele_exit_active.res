@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/Tele_Exit_Active.res"
+"resource/ui/build_menu/tele_exit_active.res"
 {
 	"Background"
 	{

@@ -1,5 +1,5 @@
 #base "huditemeffectmeter.res"
-"Resource/UI/huditemeffectmeter_cleaver.res"
+"resource/ui/huditemeffectmeter_cleaver.res"
 {
 	"itemeffectmeter"
 	{
