@@ -59,43 +59,12 @@
         "fillcolor" "0 0 0 255"
     }
 
-	"bunny"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"bunny"
-		"xpos"			"c11"
-		"xpos_minmode"	"c11" // "c-35" "c11"
-		"ypos"			"c67" // "c67" "c94"
-		"zpos"			"7"
-		"wide"			"24"
-		"tall"			"24"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"1"
-		"image"			"replay/thumbnails/bunny"
-	}
-	"pentagram"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"pentagram"
-		"xpos"			"c11"
-		"xpos_minmode"	"c11" // "c-35" "c11"
-		"ypos"			"c67" // "c67" "c94"
-		"zpos"			"7"
-		"wide"			"24"
-		"tall"			"24"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"1"
-		"image"			"replay/thumbnails/pentagram"
-	}
 	"star"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"star"
 		"xpos"			"c11"
-		"xpos_minmode"	"c11" // "c-35" "c11"
-		"ypos"			"c67" // "c67" "c94"
+		"ypos"			"c67"
 		"zpos"			"7"
 		"wide"			"24"
 		"tall"			"24"
@@ -103,6 +72,22 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"image"			"replay/thumbnails/star"
+	}
+	"starshadow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"starshadow"
+		"xpos"			"1"
+		"ypos"			"-1"
+		"zpos"			"7"
+		"wide"			"24"
+		"tall"			"24"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"drawcolor" 	"0 0 0 255"
+		"image"			"replay/thumbnails/star"
+		"pin_to_sibling" "star"
 	}
 	"Speedometer"
 		{

@@ -14,7 +14,7 @@
 		"wide"									"f0"
 		"tall"									"f0"
 
-		"button_x_offset"						"-315"
+		"button_x_offset"						"-260"
 		"button_y"								"185"
 		"button_y_delta"						"2"
 
@@ -79,7 +79,7 @@
 			"proportionaltoparent"				"1"
 			"paintbackground"					"1"
 			"paintbackgroundtype"				"0"
-			"bgcolor_override"					"46 43 42 255"
+			"bgcolor_override"					"23 21 21 255"
 		}
 	}
 
