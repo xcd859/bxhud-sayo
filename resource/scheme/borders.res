@@ -78,7 +78,7 @@ Scheme
 		"OutlinedGreyBox"
 		{
 			"bordertype"									"scalable_image"
-			"color"											"23 21 21 255"
+			"color"											"46 43 42 255"
 			"image"											"White"
 			"src_corner_height"								"16"
 			"src_corner_width"								"16"
@@ -88,7 +88,7 @@ Scheme
 		"OutlinedDullGreyBox"
 		{
 			"bordertype"									"scalable_image"
-			"color"											"23 21 21 255"
+			"color"											"46 43 42 255"
 			"image"											"White"
 			"src_corner_height"								"16"
 			"src_corner_width"								"16"

@@ -1,10 +1,10 @@
 "resource/ui/mainmenuoverride.res"
 {
-	"chat"
+	"Ratio"
 	{
-		"ControlName"	"EditablePanel"	"fieldName"	"chat"
+		"ControlName"	"EditablePanel"	"fieldName"	"Ratio"
 
-		"xpos"	"c0"	"ypos"	"cs-0.65"	"zpos"	"15"	"wide"	"f0"	"tall"	"40"
+		"xpos"	"c0"	"ypos"	"cs-0.5"	"zpos"	"15"	"wide"	"f0"	"tall"	"40"
 		
 		"proportionaltoparent"	"1"
 
@@ -16,7 +16,7 @@
 			
 			"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	
 			
-			"labelText"	"hud_saytext_time"	"textAlignment"	"west"
+			"labelText"	"sv_client_min_interp_ratio"	"textAlignment"	"west"
 	
 			"paintborder"	"0"	
 			
@@ -29,27 +29,27 @@
 		{
 			"ControlName"	"CCvarSlider"	"fieldName"	"Slider"
 			
-			"xpos"	"6"	"ypos"	"3"	"wide"	"50"	"tall"	"11"
+			"xpos"	"0"	"ypos"	"4"	"wide"	"50"	"tall"	"11"
 			
-			"leftText"	"0"	"rightText"	"8"
+			"leftText"	"-1"	"rightText"	"1"
 			
-			"minvalue"	"0"	"maxvalue"	"8"
+			"minvalue"	"-1"	"maxvalue"	"1"
 			
-			"cvar_name"	"hud_saytext_time"
+			"cvar_name"	"sv_client_min_interp_ratio"
 			
 			"allowoutofrange"	"0"		
 		}		
 	}
 	
-	"killfeed"
+	"sv_maxupdaterate"
 	{
-		"ControlName"	"EditablePanel"	"fieldName"	"killfeed"
+		"ControlName"	"EditablePanel"	"fieldName"	"sv_maxupdaterate"
 
 		"xpos"	"0"	"ypos"	"0"	"zpos"	"15"	"wide"	"f0"	"tall"	"40"
 		
 		"proportionaltoparent"	"1"
 		
-		"pin_to_sibling"	"chat"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_to_sibling"	"Ratio"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
 
 		"SubButton"
 		{
@@ -59,7 +59,7 @@
 			
 			"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	
 			
-			"labelText"	"hud_deathnotice_time"	"textAlignment"	"west"
+			"labelText"	"sv_maxupdaterate"	"textAlignment"	"west"
 	
 			"paintborder"	"0"	
 			
@@ -72,27 +72,27 @@
 		{
 			"ControlName"	"CCvarSlider"	"fieldName"	"Slider"
 			
-			"xpos"	"6"	"ypos"	"3"	"wide"	"50"	"tall"	"11"
+			"xpos"	"0"	"ypos"	"4"	"wide"	"50"	"tall"	"11"
 			
-			"leftText"	"0"	"rightText"	"10"
+			"leftText"	"66"	"rightText"	"25000"
 			
-			"minvalue"	"0"	"maxvalue"	"10"
+			"minvalue"	"66"	"maxvalue"	"25000"
 			
-			"cvar_name"	"hud_deathnotice_time"
+			"cvar_name"	"sv_maxupdaterate"
 			
 			"allowoutofrange"	"0"		
 		}		
 	}	
 	
-	"net_graph"
+	"sv_minupdaterate"
 	{
-		"ControlName"	"EditablePanel"	"fieldName"	"net_graph"
+		"ControlName"	"EditablePanel"	"fieldName"	"sv_minupdaterate"
 
 		"xpos"	"0"	"ypos"	"0"	"zpos"	"15"	"wide"	"f0"	"tall"	"40"
 		
 		"proportionaltoparent"	"1"
 		
-		"pin_to_sibling"	"killfeed"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_to_sibling"	"sv_maxupdaterate"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
 
 		"SubButton"
 		{
@@ -102,7 +102,7 @@
 			
 			"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	
 			
-			"labelText"	"net_graph"	"textAlignment"	"west"
+			"labelText"	"sv_minupdaterate"	"textAlignment"	"west"
 	
 			"paintborder"	"0"	
 			
@@ -115,68 +115,27 @@
 		{
 			"ControlName"	"CCvarSlider"	"fieldName"	"Slider"
 			
-			"xpos"	"6"	"ypos"	"3"	"wide"	"50"	"tall"	"11"
+			"xpos"	"0"	"ypos"	"4"	"wide"	"50"	"tall"	"11"
 			
-			"leftText"	"0"	"rightText"	"4"
+			"leftText"	"66"	"rightText"	"25000"
 			
-			"minvalue"	"0"	"maxvalue"	"4"
+			"minvalue"	"66"	"maxvalue"	"25000"
 			
-			"cvar_name"	"net_graph"
-			
-			"allowoutofrange"	"0"		
-		}				
-	}
-
-	"damage numbers red"
-	{
-		"ControlName"	"EditablePanel"	"fieldName"	"damage numbers red"
-
-		"xpos"	"c120"	"ypos"	"cs-0.65"	"zpos"	"15"	"wide"	"f0"	"tall"	"40"
-		
-		"proportionaltoparent"	"1"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"	"fieldName"	"SubButton"
-		
-			"xpos"	"0"	"ypos"	"0"	"wide"	"f0"	"tall"	"40"
-			
-			"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	
-			
-			"labelText"	"hud_combattext_red"	"textAlignment"	"west"
-	
-			"paintborder"	"0"	
-			
-			"paintbackground"	"0"
-			
-			"defaultFgColor_override"	"White"	"armedFgColor_override"	"White"
-		}
-		
-		"Slider"
-		{
-			"ControlName"	"CCvarSlider"	"fieldName"	"Slider"
-			
-			"xpos"	"6"	"ypos"	"3"	"wide"	"50"	"tall"	"11"
-			
-			"leftText"	"0"	"rightText"	"255"
-			
-			"minvalue"	"0"	"maxvalue"	"255"
-			
-			"cvar_name"	"hud_combattext_red"
+			"cvar_name"	"sv_minupdaterate"
 			
 			"allowoutofrange"	"0"		
-		}				
-	}
+		}		
+	}	
 
-	"damage numbers green"
+	"sv_maxcmdrate"
 	{
-		"ControlName"	"EditablePanel"	"fieldName"	"damage numbers green"
+		"ControlName"	"EditablePanel"	"fieldName"	"sv_maxcmdrate"
 
 		"xpos"	"0"	"ypos"	"0"	"zpos"	"15"	"wide"	"f0"	"tall"	"40"
 		
 		"proportionaltoparent"	"1"
 		
-		"pin_to_sibling"	"damage numbers red"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_to_sibling"	"sv_minupdaterate"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
 
 		"SubButton"
 		{
@@ -186,7 +145,7 @@
 			
 			"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	
 			
-			"labelText"	"hud_combattext_green"	"textAlignment"	"west"
+			"labelText"	"sv_maxcmdrate"	"textAlignment"	"west"
 	
 			"paintborder"	"0"	
 			
@@ -199,27 +158,27 @@
 		{
 			"ControlName"	"CCvarSlider"	"fieldName"	"Slider"
 			
-			"xpos"	"6"	"ypos"	"3"	"wide"	"50"	"tall"	"11"
+			"xpos"	"0"	"ypos"	"4"	"wide"	"50"	"tall"	"11"
 			
-			"leftText"	"0"	"rightText"	"255"
+			"leftText"	"66"	"rightText"	"25000"
 			
-			"minvalue"	"0"	"maxvalue"	"255"
+			"minvalue"	"66"	"maxvalue"	"25000"
 			
-			"cvar_name"	"hud_combattext_green"
+			"cvar_name"	"sv_maxcmdrate"
 			
 			"allowoutofrange"	"0"		
-		}				
+		}		
 	}
 
-	"damage numbers blue"
+	"sv_mincmdrate"
 	{
-		"ControlName"	"EditablePanel"	"fieldName"	"damage numbers blue"
+		"ControlName"	"EditablePanel"	"fieldName"	"sv_mincmdrate"
 
 		"xpos"	"0"	"ypos"	"0"	"zpos"	"15"	"wide"	"f0"	"tall"	"40"
 		
 		"proportionaltoparent"	"1"
 		
-		"pin_to_sibling"	"damage numbers green"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_to_sibling"	"sv_maxcmdrate"	"pin_corner_to_sibling" "PIN_TOPLEFT"	"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
 
 		"SubButton"
 		{
@@ -229,7 +188,7 @@
 			
 			"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	
 			
-			"labelText"	"hud_combattext_blue"	"textAlignment"	"west"
+			"labelText"	"sv_mincmdrate"	"textAlignment"	"west"
 	
 			"paintborder"	"0"	
 			
@@ -242,15 +201,15 @@
 		{
 			"ControlName"	"CCvarSlider"	"fieldName"	"Slider"
 			
-			"xpos"	"6"	"ypos"	"3"	"wide"	"50"	"tall"	"11"
+			"xpos"	"0"	"ypos"	"4"	"wide"	"50"	"tall"	"11"
 			
-			"leftText"	"0"	"rightText"	"255"
+			"leftText"	"66"	"rightText"	"25000"
 			
-			"minvalue"	"0"	"maxvalue"	"255"
+			"minvalue"	"66"	"maxvalue"	"25000"
 			
-			"cvar_name"	"hud_combattext_blue"
+			"cvar_name"	"sv_mincmdrate"
 			
 			"allowoutofrange"	"0"		
-		}				
+		}		
 	}
 }

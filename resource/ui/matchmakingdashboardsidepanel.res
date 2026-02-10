@@ -13,7 +13,7 @@
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"23 21 21 255"
+		"bgcolor_override"							"46 43 42 255"
 	}
 
 	"ReturnButton"
@@ -42,7 +42,7 @@
 		"font"										"HudFontMediumSmall"
 
 		"armedBgColor_override"						"Main"
-		"defaultBgColor_override"					"23 21 21 255"
+		"defaultBgColor_override"					"46 43 42 255"
 
 		"armedFgColor_override"						"White"
 	}

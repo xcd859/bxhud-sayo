@@ -118,7 +118,7 @@ Scheme
 		"DisguiseMenuIconBlue"								"115 150 170 255"
 
  		"MatchmakingDialogTitleColor"						"200 184 151 255"
- 		"MatchmakingMenuItemBackground"						"23 21 21 255"
+ 		"MatchmakingMenuItemBackground"						"46 43 42 255"
  		"MatchmakingMenuItemBackgroundActive"				"150 71 0 255"
 		"MatchmakingMenuItemTitleColor"						"200 184 151 255"
 		"MatchmakingMenuItemDescriptionColor"				"200 184 151 255"

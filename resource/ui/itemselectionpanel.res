@@ -12,7 +12,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
-		"bgcolor_override"							"23 21 21 255"
+		"bgcolor_override"							"46 43 42 255"
 
 		"item_ypos"									"90"
 		"item_ydelta"								"80"
