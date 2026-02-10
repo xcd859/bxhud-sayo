@@ -7,7 +7,7 @@
 	}
 	"BXhud"
 	{
-		"label" 								"BXhud"
+		"label" 								"BXhud-sayo"
 		"command" 								"engine con_enable 1; toggleconsole"
 	}
 	"Servers"
