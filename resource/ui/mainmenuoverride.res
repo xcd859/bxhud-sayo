@@ -217,6 +217,135 @@
 		}
 	}
 
+		"SafeMode"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"SafeMode"
+		"xpos"										"rs1"
+		"ypos"										"cs-0.5+40"
+		"zpos"										"999"
+		"wide"										"110"
+		"tall"										"214"
+		"visible"									"0"
+
+		"CloseButton"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"CloseButton"
+			"xpos"									"rs1"
+			"ypos"									"0"
+			"zpos"									"1"
+			"wide"									"16"
+			"tall"									"16"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"font"									"roboto18"
+			"textAlignment"							"center"
+			"labeltext"								"X"
+			"textinsety"						"1"
+			"AllCaps"								"1"
+			"Command"								"engine cl_mainmenu_safemode 0"
+			"actionsignallevel"						"2"
+			"sound_depressed"						"UI/buttonclick.wav"
+
+			"paintbackground"						"1"
+			"RoundedCorners"						"0"
+
+			"defaultBgColor_override"				"0 0 0 100"
+			"armedBgColor_override"					"0 0 0 100"
+			"depressedBgColor_override"				"0 0 0 100"
+
+			"defaultFgColor_override"				"White"
+			"armedFgColor_override"					"Orange"
+			"depressedFgColor_override"				"Orange"
+		}
+		"FriendsContainer"
+		{
+			"ControlName"							"EditablePanel"
+			"fieldname"								"FriendsContainer"
+			"xpos"									"cs-0.5"
+			"ypos"									"cs-0.5"
+			"zpos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"visible"								"1"
+			"proportionaltoparent"					"1"
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"0"
+			"bgcolor_override"						"0 0 0 50"
+
+			"TitleLabel"
+			{
+				"ControlName"						"CExLabel"
+				"fieldName"							"TitleLabel"
+				"xpos"								"0"
+				"ypos"								"0"
+				"wide"								"f0"
+				"tall"								"16"
+				"visible"							"1"
+				"enabled"							"1"
+				"proportionaltoparent"				"1"
+				"use_proportional_insets"			"1"
+				"font"								"roboto14"
+				"labelText"							"#TF_Competitive_Friends"
+				"textAlignment"						"west"
+				"textinsetx"						"5"
+				"textinsety"						"1"
+				"fgcolor"							"White"
+				"paintbackground"					"1"
+				"paintbackgroundtype"				"0"
+				"bgcolor_override"					"0 0 0 100"
+			}
+			"SteamFriendsList"
+			{
+				"ControlName"						"CSteamFriendsListPanel"
+				"fieldname"							"SteamFriendsList"
+				"xpos"								"rs1"
+				"ypos"								"rs1-2"
+				"zpos"								"500"
+				"wide"								"f2"
+				"tall"								"f20"
+				"visible"							"1"
+				"proportionaltoparent"				"1"
+
+				"paintbackground"					"0"
+				"paintbackgroundtype"				"0"
+				"bgcolor_override"					"0 0 0 255"
+
+				"columns_count"						"1"
+				"inset_x"							"0"
+				"inset_y"							"0"
+				"row_gap"							"2"
+				"column_gap"						"0"
+				"restrict_width"					"0"
+
+				"friendpanel_kv"
+				{
+					"wide"							"104"
+					"tall"							"20"
+				}
+				"ScrollBar"
+				{
+					"ControlName"					"ScrollBar"
+					"FieldName"						"ScrollBar"
+					"xpos"							"rs1"
+					"ypos"							"0"
+					"tall"							"f0"
+					"wide"							"4"
+					"zpos"							"1000"
+					"nobuttons"						"1"
+					"proportionaltoparent"			"1"
+
+					"Slider"
+					{
+						"fgcolor_override"			"White"
+					}
+				}
+			}
+		}
+	}
+
 	"TooltipPanel"
 	{
 		"ControlName"							"EditablePanel"

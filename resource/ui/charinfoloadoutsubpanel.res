@@ -458,7 +458,7 @@
 		"ControlName"								"CExImageButton"
 		"fieldName"									"HeavyButton"
 		"xpos"										"cs-0.5-10"
-		"ypos"										"rs1-40"
+		"ypos"										"rs1-50"
 		"zpos"										"605"
 		"wide"										"20"
 		"tall"										"20"

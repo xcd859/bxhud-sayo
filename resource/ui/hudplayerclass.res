@@ -42,9 +42,6 @@
 		"scaleImage"	"1"	
 	}		
 
-	"classmodelpanel"
-	{		"xpos"		"9999"		}
-
 	"CarryingWeapon"
 	{		"xpos"		"9999"		}
 }

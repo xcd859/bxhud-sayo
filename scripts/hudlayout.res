@@ -79,8 +79,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"f0"
-		"tall"										"f0"
+		"wide"										"50"
+		"tall"										"4"
 		"MeterFG"									"White"
 		"MeterBG"									"Gray"
 	}
@@ -201,7 +201,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"xpos"										"0"
-		"ypos"										"0"
+		"ypos"										"-3"
 		"wide"										"f0"
 		"tall"										"f0"
 	}
@@ -212,7 +212,7 @@
 		
 		"visible" 	"0"	"enabled" 	"1"
 		
-		"xpos"	"c-126"	"ypos"	"250"	"wide"	"252"	"tall"	"30"
+		"xpos"	"c-126"	"ypos"	"260"	"wide"	"252"	"tall"	"30"
 		
 		"priority"	"40"
 	}
@@ -419,9 +419,9 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" 							"8"
+		"MaxDeathNotices" 							"6"
 		"IconScale"	  								"0.35"
-		"LineHeight"	  							"17.5"
+		"LineHeight"	  							"16"
 		"LineSpacing"	 							"0.75"
 		"CornerRadius"	  							"0.5"
 		"RightJustify"	  							"1"

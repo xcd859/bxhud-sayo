@@ -5,7 +5,7 @@
 		"command"								"engine"
 		"OnlyAtMenu"							"1"
 	}
-	"BXhud"
+	"BXhud-sayo"
 	{
 		"label" 								"BXhud-sayo"
 		"command" 								"engine con_enable 1; toggleconsole"
@@ -31,6 +31,11 @@
 		"label"									"store"
 		"command"								"engine open_store"
 		"OnlyAtMenu"							"1"
+	}
+	"Friends"
+	{
+		"label"										"friends"
+		"command"									"engine cl_mainmenu_safemode 1"
 	}
 	"Options"
 	{
